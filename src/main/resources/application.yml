@@ -1,0 +1,14 @@
+server:
+  port: 8212
+
+sftp:
+  username: suirui
+  password: 123465
+  rootDir: D:\subject
+  port: 8800
+  portList: 8801-8880
+  ip: 0.0.0.0
+  ftpDir: D:\outer32
+logging:
+  level:
+    root: debug
